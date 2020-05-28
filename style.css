@@ -1,0 +1,26 @@
+body {
+  background-image: url("image1.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.alignment-heading{
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 3%
+}
+
+.space{
+  margin: 2% 0;
+}
+
+.container{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.alignment{
+  text-align: center;
+}
